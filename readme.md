@@ -2,7 +2,7 @@
 
 _Web app with the information of world indicators_
 
-### Pre-requisitos 📋
+### Prerequisites 📋
 
 _What do you need to deploy the app?_
 
@@ -11,14 +11,13 @@ php 5.6
 apache2
 mysql
 git
-
 ```
 
-### Instalación 🔧
+### How to install 🔧
 
 _Clone this repository in your htdocs or www directory_
 
-### Despliegue 📦
+### Deploy 📦
 
 _To up the app you need access to your localhost like..._
 
@@ -26,9 +25,15 @@ _To up the app you need access to your localhost like..._
 http://localhost/indicators-app/
 ```
 
-## Autor ✒️
+_In the main directory of the proyecto, exist a directory call /db where can find the SQL script to create the db of the app_
 
-* **Álvaro Muñoz** - *Desarrollador* - [AlvaroMrJack](https://github.com/AlvaroMrJack)
+```
+indicators-app\db\indicators_db.sql
+```
+
+## Author ✒️
+
+* **Álvaro Muñoz** - *Developer* - [AlvaroMrJack](https://github.com/AlvaroMrJack)
 
 ---
-⌨️ con 💪 por [AlvaroMrJack](https://github.com/AlvaroMrJack) 😊
+⌨️ whit 💪 by [AlvaroMrJack](https://github.com/AlvaroMrJack) 😊
