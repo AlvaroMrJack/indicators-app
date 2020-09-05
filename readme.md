@@ -25,7 +25,7 @@ _To up the app you need access to your localhost like..._
 http://localhost/indicators-app/
 ```
 
-_In the main directory of the proyecto, exist a directory call /db where can find the SQL script to create the db of the app_
+_In the main directory of the project, exist a directory call /db where can find the SQL script to create the db of the app_
 
 ```
 indicators-app\db\indicators_db.sql
@@ -36,4 +36,4 @@ indicators-app\db\indicators_db.sql
 * **Álvaro Muñoz** - *Developer* - [AlvaroMrJack](https://github.com/AlvaroMrJack)
 
 ---
-⌨️ whit 💪 by [AlvaroMrJack](https://github.com/AlvaroMrJack) 😊
+⌨️ with 💪 by [AlvaroMrJack](https://github.com/AlvaroMrJack) 🦅
